@@ -1,0 +1,15 @@
+.aboutUsContainer{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    padding: 8% 10px;
+}
+
+.aboutUsContainer ol{
+    padding: 30px 30px;
+    border: 1px solid black;
+}
+
+.aboutUsContainer ol li {
+    padding: 8px ;
+}
